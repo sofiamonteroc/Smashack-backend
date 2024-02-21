@@ -1,0 +1,6 @@
+com/sofiamc/smashack/repository/RestaurantRepository.class
+com/sofiamc/smashack/service/RestaurantService.class
+com/sofiamc/smashack/corsConfig/CorsConfig.class
+com/sofiamc/smashack/controller/RestaurantController.class
+com/sofiamc/smashack/service/impl/RestaurantServiceImpl.class
+com/sofiamc/smashack/entity/Restaurant.class
